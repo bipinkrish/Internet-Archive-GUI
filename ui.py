@@ -150,9 +150,6 @@ class la:
         print(self.h)
         r = os.system(self.h)
 
-    def jaja(self):
-        print(self.download_var.get())
-
 
 root = la()
 root.mainloop()
